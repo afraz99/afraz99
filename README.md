@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abdul Muqtadeer Shaik (just call me Abdul : ) )
 
-I am a **Senior Data Engineer** with over 5+ years of experience specializing in high-scale, event-driven architectures and cloud-native data platforms. My expertise lies in building Tier-1 banking-grade data solutions that prioritize scalability, security, and sub-second latency.
+I am a ** Data Engineer** with over 5+ years of experience specializing in high-scale, event-driven architectures and cloud-native data platforms. My expertise lies in building Tier-1 banking-grade data solutions that prioritize scalability, security, and sub-second latency.
 
 ### 🔭 Areas of Expertise
 - **Event-Driven Architecture:** Specialized in **Amazon MSK (Kafka)** and **AWS Lambda** for real-time data streaming and serverless logic.
