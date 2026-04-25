@@ -1,4 +1,4 @@
-# Hi 👋, I'm Abdul Muqtadeer Shaik (just call me Abdul : ) )
+# Hi 👋, I'm Abdul Muqtadeer Shaik ( call me Abdul : ) )
 
 I am a **Data Engineer** with over 5+ years of experience specializing in high-scale, event-driven architectures and cloud-native data platforms. My expertise lies in building Tier-1 banking-grade data solutions that prioritize scalability, security, and sub-second latency.
 
