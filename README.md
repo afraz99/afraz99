@@ -1,4 +1,4 @@
-# Hi 👋, I'm Abdul Muqtadeer Shaik
+# Hi 👋, I'm Abdul Muqtadeer Shaik (just call me Abdul : ) )
 
 I am a **Senior Data Engineer** with over 5+ years of experience specializing in high-scale, event-driven architectures and cloud-native data platforms. My expertise lies in building Tier-1 banking-grade data solutions that prioritize scalability, security, and sub-second latency.
 
@@ -14,11 +14,9 @@ I am a **Senior Data Engineer** with over 5+ years of experience specializing in
 - **Data Platforms:** ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 - **DevOps:** ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 📈 Career Highlights
-* **Cost Optimization:** Migrated 45TB+ of legacy data to S3/Glue, saving **$120k annually** in infrastructure costs.
-* **Performance Engineering:** Reduced message processing latency by **250ms** for real-time notification systems.
-* **High Availability:** Designed APIs handling **50k+ requests per second** with 99.99% uptime.
-* **Governance:** Secured 500+ API credentials using AWS KMS and Secrets Manager, maintaining 100% banking compliance audits.
+- AND MORE................
+
+
 
 ---
 
